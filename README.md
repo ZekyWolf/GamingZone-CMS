@@ -1,7 +1,7 @@
 ## GamingZone - CMS
 
 ### Authors: 
-#### Ax1SS
+#### Ax1sss
 #### Hopyers
 
 # Dont remove original authors !!!
